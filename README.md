@@ -68,3 +68,5 @@ legend('topleft',
        legend=c('Y_star', 'h'), col=c('blue', 'orange'))
 par(oldpar)
 ```
+
+![simuoation_result](https://user-images.githubusercontent.com/75870240/137111765-95d26068-76a1-4011-a196-bd2a99c5f1f8.png)
